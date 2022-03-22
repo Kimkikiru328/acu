@@ -28,6 +28,33 @@ https://stackoverflow.com/questions/67141844/how-do-i-get-the-coordinates-of-fac
 
 
 
+# Sites
+
+1. Face_point (Kaggle)
+
+https://www.kaggle.com/code?searchQuery=face+point
+
+2. Algorithm 
+
+https://github.com/Yingping-LI/Light-U-net  (Light-Unet)
+https://github.com/jeya-maria-jose/unext-pytorch (UNEXT)
+https://arxiv.org/pdf/1907.12237v2.pdf (point on knee) - https://github.com/MonicaKim89/Arthritis_Classification/blob/main/unet_segmentation/%5B0110%5D%20local_u_net.ipynb
+
+3. Face Landmark
+
+https://link.springer.com/article/10.1007/s11554-021-01107-w
+
+4. git Unsupervised Learning of Object landamrk
+
+https://github.com/tomasjakab/imm
+
+5. Acupuncture point pdf
+
+https://www.chiro.org/acupuncture/ABSTRACTS/Acupuncture_Points.pdf
+
+6. face crop
+
+https://stackoverflow.com/questions/67141844/how-do-i-get-the-coordinates-of-face-mash-landmarks-in-mediapipe
 
 
 
