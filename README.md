@@ -7,6 +7,8 @@
 1. 발표자료 --> image control
 https://www.youtube.com/watch?v=mdDwSpfLT60&list=PL41Sc0PqF7eRirKnJ8beJ4fGOOynUyClL&index=13
 
+https://github.com/heyjaekim/Acupuncture-Points
+
 2. Real_time opencv computer vision Face Landmarks
 https://www.youtube.com/watch?v=V9bzew8A1tc
 
